@@ -1,6 +1,5 @@
 # HassanIssa946-Diffusion_Image_Generator
 
-# Stable Diffusion XL DreamBooth Training
 
 Welcome to the **Stable Diffusion XL DreamBooth Training** project! This repository provides everything you need to fine-tune the Stable Diffusion XL model using the DreamBooth method, allowing you to generate high-quality, customized images from specific text prompts.
 
